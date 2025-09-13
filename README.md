@@ -4,7 +4,7 @@
 
 This project analyzes **Ferns and Petals (FNP)** sales data to uncover
 insights about customer behavior, sales performance, and product
-trends.\
+trends.
 The analysis includes dashboards, pivot tables, and visualizations that
 help identify top-performing products, revenue by category, customer
 spending, and delivery trends.
@@ -30,21 +30,21 @@ statement and insights
 
 ## 🎯 Key Business Questions Answered
 
-1.  **Total Revenue** → What is the total revenue generated?\
+1.  **Total Revenue** → What is the total revenue generated?
 2.  **Average Order & Delivery Time** → How long does delivery usually
-    take?\
+    take?
 3.  **Monthly Sales Performance** → Which months have the highest
-    sales?\
-4.  **Top Products by Revenue** → What are the top-performing products?\
+    sales?
+4.  **Top Products by Revenue** → What are the top-performing products?
 5.  **Customer Spending Analysis** → How much do customers spend on
-    average?\
+    average?
 6.  **Top 5 Products Performance** → Sales trends of the top 5
-    products.\
-7.  **Top 10 Cities by Orders** → Which cities place the most orders?\
+    products.
+7.  **Top 10 Cities by Orders** → Which cities place the most orders?
 8.  **Order Quantity vs Delivery Time** → Do larger orders take longer
-    to deliver?\
+    to deliver?
 9.  **Revenue by Occasion** → Which occasions generate the most
-    revenue?\
+    revenue?
 10. **Product Popularity by Occasion** → Which products are popular for
     each occasion?
 
@@ -81,10 +81,10 @@ statement and insights
 
 ## 🛠 Tools & Techniques Used
 
--   **Excel** → Pivot tables, charts, and dashboards\
+-   **Excel** → Pivot tables, charts, and dashboards
 -   **Python (Pandas, Matplotlib)** → Data preprocessing and
-    visualization\
--   **Power Query** → Data cleaning and transformation\
+    visualization
+-   **Power Query** → Data cleaning and transformation
 -   **PDF Report** → Business insights and problem statement
 
 ------------------------------------------------------------------------
@@ -103,10 +103,10 @@ statement and insights
 
 ## 📌 Learning Outcomes
 
--   Data preprocessing and cleaning for business datasets\
--   Dashboard creation with pivot tables and charts\
+-   Data preprocessing and cleaning for business datasets
+-   Dashboard creation with pivot tables and charts
 -   Business insights extraction (customer behavior, product trends,
-    sales performance)\
+    sales performance)
 -   Visualization and storytelling using real-world datasets
 
 ------------------------------------------------------------------------
